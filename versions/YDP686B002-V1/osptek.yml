@@ -1,0 +1,10 @@
+id: YDP686B002-V1
+category: displays
+size: "6.86"
+panel: tft
+resolution: 480x1280
+interface: [mipi]
+driver: ST7703I-G5-DP
+touch: null
+outline: 72.42 x 173.79 x 6.5 mm
+active_area: 60.192 x 160.512 mm
